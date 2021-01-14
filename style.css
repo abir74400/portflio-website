@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+}
+
+.first-sec{
+    height:300px;
+    text-align: justify;
+    padding: 150px;
+}
+
+.second-sec{
+    height: 600px;
+    text-align: justify;
+    padding: 150px;
+
+}
+.third-sec{
+    height:1000px;
+    
+    padding: 150px;
+}
+
+
+h1{
+    font-size: 50px;
+}
+.align{
+    text-align:center;
+}
+.name{
+    color: rgb(247, 89, 89);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, tomato, rgb(241, 68, 68));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:aliceblue;
+    font-size: 20px;
+}
+.first-div img{
+    width: 100%;
+}
+.first-div{
+    width: 40%;
+    float: left;
+    margin: 5px;
+    padding:20px;
+}
+.second-div img{
+    width: 100%;
+}
+.second-div{
+    width: 40%;
+    float: left;
+    margin: 5px;
+    padding:20px;
+}
+.latest-div img{
+width: 20%;
+float: left;
+margin-left:160px;
+padding:5px;
+}
