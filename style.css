@@ -15,8 +15,7 @@ body{
 
 }
 .third-sec{
-    height:1000px;
-    
+    height:400px;
     padding: 150px;
 }
 
@@ -61,4 +60,30 @@ width: 20%;
 float: left;
 margin-left:160px;
 padding:5px;
+}
+.last-sec{
+    height: 100px;
+    padding: 150px;
+}
+.last-div{
+    width:50%;
+    background-image: linear-gradient(45deg, rgb(47, 153, 240), blue);
+    border-radius: 10px;
+    margin-left:400px;
+    padding:5px;
+    color: whitesmoke;
+    
+}
+.mail{
+    text-align: right;
+    text-decoration: none;
+    float: right;
+    background-image: linear-gradient(45deg, tomato, red);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.last-div-sec{
+    text-align: center;
 }
