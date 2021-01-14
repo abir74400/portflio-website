@@ -3,20 +3,23 @@ body{
 }
 
 .first-sec{
-    height:300px;
+    height:550px;
     text-align: justify;
     padding: 150px;
+    background-image:url("images/header-bg.png");
 }
 
 .second-sec{
-    height: 650px;
+    height: 550px;
     text-align: justify;
     padding: 150px;
+    background-image: url("images/biography-bg.png");
 
 }
 .third-sec{
     height:400px;
     padding: 150px;
+    background-image: url("images/latest-work-bg.png");
 }
 
 
@@ -83,7 +86,6 @@ padding:5px;
     border-radius: 5px;
     color: white;
 }
-
-.last-div-sec{
+footer{
     text-align: center;
 }
